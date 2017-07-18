@@ -1,0 +1,9 @@
+CHANGED,C:\Users\Rohit\Desktop\project backup\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\parse\starter\GPSLocate$3$1$1$1$override.class
+CHANGED,C:\Users\Rohit\Desktop\project backup\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\parse\starter\GPSLocate$1$override.class
+CHANGED,C:\Users\Rohit\Desktop\project backup\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\parse\starter\GPSLocate$3$1$1$2$override.class
+CHANGED,C:\Users\Rohit\Desktop\project backup\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\parse\starter\GPSLocate$3$1$override.class
+CHANGED,C:\Users\Rohit\Desktop\project backup\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\parse\starter\GPSLocate$override.class
+CHANGED,C:\Users\Rohit\Desktop\project backup\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\parse\starter\GPSLocate$3$override.class
+CHANGED,C:\Users\Rohit\Desktop\project backup\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\parse\starter\GPSLocate$2$override.class
+CHANGED,C:\Users\Rohit\Desktop\project backup\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\Users\Rohit\Desktop\project backup\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\parse\starter\GPSLocate$3$1$1$override.class
